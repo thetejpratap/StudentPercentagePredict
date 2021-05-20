@@ -1,0 +1,45 @@
+In this section we will see how we can use Python Scikit-Learn library for machine learning. 
+
+The task is to predict the percentage of the student based on no. of study hours.
+
+This is a simple linear regression task as it involves just 2 variables.
+
+Here, we are importing the libraries needed to perform the task.
+
+Next we are loading the dataset from the provided url and reading it into the dataframe.
+
+Now, we will run these two steps.
+
+As we see now, the data has been successfully loaded into the students_data.
+
+Next we will do basic operations to check the null values and understand the data range i.e. mean, standard deviation, min and max to get the basic understanding of the dataframe. The correlation function shows that there is a high correlation between the percentage obtained by a student and their study hours.
+
+Next, we can do data visualization to understand the data spread.
+
+Now, we are diving the dataset into X and y variables.
+
+We have also split the data in train and test sets and then we will train the model on the training dataset.
+
+Now we have checked the training and the testing score
+
+As we see our last step evaluates the model based on different metrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
